@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TestingNav&amp;Table</string>
+    <string name="botnavsearch">Search</string>
+    <string name="botnavhome">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task_challenge">Task / Challenge</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string name="language_c">C language</string>
+    <string name="c_description">A powerful,that is widely used for system and application software</string>
+    <string-array name="Language_name">
+        <item>C/C++</item>
+        <item>PYTHON</item>
+        <item>SQL</item>
+        <item>JAVA</item>
+        <item>HTML</item>
+        <item>CSS </item>
+        <item>JAVASCRIPT</item>
+    </string-array>
+
+    <string-array name="language_Description">
+        <item>A powerful, general-purpose programming language that is widely used for system and application software.</item>
+        <item>A high-level, interpreted language known for its readability and simplicity</item>\
+        <item>Structured Query Language is used for managing and manipulating relational databases</item>
+        <item>A versatile, object-oriented programming language that is used for building cross-platform applications</item>
+        <item>HyperText Markup Language is the standard language for creating web pages.</item>
+        <item> Cascading Style Sheets describe the presentation of a document written in HTML or XML.</item>
+        <item>A dynamic, high-level scripting language that enables interactive web pages.</item>
+    </string-array>
+
+</resources>
